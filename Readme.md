@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/Example/Customer.cs) (VB: [Customer.vb](./VB/Example/Customer.vb))
+* [Main.cs](./CS/Example/Main.cs) (VB: [Main.vb](./VB/Example/Main.vb))
+* [Program.cs](./CS/Example/Program.cs) (VB: [Program.vb](./VB/Example/Program.vb))
+* [TreeListCheckHelper.cs](./CS/Example/TreeListCheckHelper.cs) (VB: [TreeListCheckHelper.vb](./VB/Example/TreeListCheckHelper.vb))
+<!-- default file list end -->
 # How to modify the default checking nodes behavior in the TreeList control
 
 
