@@ -7,7 +7,7 @@
 
 # WinForms TreeList - Implement custom behavior to check nodes
 
-This example handles the [TreeList.BeforeCheckNode](https://documentation.devexpress.com/WindowsForms/DevExpress.XtraTreeList.TreeList.BeforeCheckNode.event) event to do the following:
+This example handles the [TreeList.BeforeCheckNode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraTreeList.TreeList.BeforeCheckNode) event to do the following:
 
 * Set the same check state for all child nodes if the parent node's check state changes. 
 * Check the parent node if at least one child node is checked.
