@@ -12,7 +12,7 @@ This example handles the [TreeList.BeforeCheckNode](https://docs.devexpress.com
 * Set the same check state for all child nodes if the parent node's check state changes. 
 * Check the parent node if at least one child node is checked.
 
-![WinForms TreeList - Implement custom behavior to check nodes](https://raw.githubusercontent.com/DevExpress-Examples/how-to-modify-the-default-checking-nodes-behavior-in-the-treelist-control-t590828/16.1.11+/media/44d609b9-3ba7-4696-866e-359f52232a5c.png)
+![WinForms TreeList - Implement custom behavior to check nodes](media/44d609b9-3ba7-4696-866e-359f52232a5c.png)
 
 ```csharp
 private void treeList1_BeforeCheckNode(object sender, CheckNodeEventArgs e) {
@@ -39,3 +39,4 @@ private void treeList1_BeforeCheckNode(object sender, CheckNodeEventArgs e) {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
