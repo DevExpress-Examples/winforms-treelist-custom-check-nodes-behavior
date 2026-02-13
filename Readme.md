@@ -33,7 +33,7 @@ private void treeList1_BeforeCheckNode(object sender, CheckNodeEventArgs e) {
 * [Main.cs](./CS/Example/Main.cs) (VB: [Main.vb](./VB/Example/Main.vb))
 * [TreeListCheckHelper.cs](./CS/Example/TreeListCheckHelper.cs) (VB: [TreeListCheckHelper.vb](./VB/Example/TreeListCheckHelper.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-custom-check-nodes-behavior&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-custom-check-nodes-behavior&~~~was_helpful=no)
 
